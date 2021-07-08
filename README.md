@@ -6,3 +6,5 @@ During my education to become a system developer, I first got in contact with we
 The goal is to get as "low level" in these "high level" languages as possible, to learn more about the intersection where the language "ends" and the lower parts of the computer takes over. A fun thing was to see how many lines each language took to perform the same task, although I didn't want to compress the code as far as it possibly could, as that would make it harder to read - thus working against the educational purpose.
 
 When writing this I am still in school, continuing to learn about all these awesome things! So please don't hesitate to point out if I missed something, for example if there is actually a "lower level" to perform some parts of the code in the different languages, or something else!
+
+The functionality I was aiming for was to be able to connect locally to the server, have the server output in its end a message that a client connected and from what address, echo back the incoming HTTP request and then close the connection and terminate the server.
